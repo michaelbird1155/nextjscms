@@ -1,8 +1,8 @@
 backend:
-  name: azure #test-repo
-  repo: SHR/SLIPSTREAM_186447/gm-firstmile-nextcms
+  name: github #azure
+  repo: michaelbird1155/nextjscms #SHR/SLIPSTREAM_186447/gm-firstmile-nextcms
   branch: master
-  site_domain: cms.netlify.com #location.hostname
+  site_domain: location.hostname
 media_folder: public/img
 public_folder: img
 collections:
