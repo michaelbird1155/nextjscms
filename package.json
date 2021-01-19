@@ -1,0 +1,28 @@
+{
+  "name": "gm-firstmile-nextjscms",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "web-scripts build",
+    "start": "next start -p 8080",
+    "lint": "web-scripts lint",
+    "format": "web-scripts format",
+    "test": "web-scripts test --passWithNoTests",
+    "fm-install": "yarn --prefer-offline",
+    "fm-build": "yarn run lint && yarn run build",
+    "fm-test": "yarn run test",
+    "fm-publish": ""
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.12.10",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@slipstream/web-scripts": "^0.3.0",
+    "frontmatter-markdown-loader": "^3.6.2",
+    "typescript": "^3.8.3"
+  }
+}

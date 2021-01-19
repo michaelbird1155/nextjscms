@@ -1,0 +1,17 @@
+{
+  "extends": "@slipstream/web-scripts/config/tsconfig.json",
+  "include": [
+    "src",
+    "next-env.d.ts"
+  ],
+  "compilerOptions": {
+    "module": "esnext",
+    "jsx": "preserve",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "isolatedModules": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

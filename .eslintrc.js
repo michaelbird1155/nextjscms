@@ -1,0 +1,1 @@
+module.exports = require('@slipstream/web-scripts/config/eslintrc.js');
