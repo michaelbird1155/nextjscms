@@ -1,7 +1,7 @@
 backend:
   name: github #azure
   repo: michaelbird1155/nextjscms #SHR/SLIPSTREAM_186447/gm-firstmile-nextcms
-  branch: master
+  branch: main
   site_domain: location.hostname
 media_folder: public/img
 public_folder: img
