@@ -14,3 +14,7 @@ cats:
 This is my awesome page about cats of the internet.
 
 This page is built with NextJS, and content is managed in Netlify CMS
+
+
+
+![](https://preview.redd.it/8kzieb22ori81.jpg?auto=webp&s=25ec0d3d70ae563d6122e86518ff3b06e9bc4b84)
